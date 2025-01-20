@@ -15,8 +15,9 @@ Fork the repository to complete course exercises
 - [x] 11.7 Building and testing
 - [x] 11.8 Back to green
 - [x] 11.9 Simple end-to-end tests
-- [ ] 11.10 Deploying your application to Render
-- [ ] 11.11 Automatic deployments
+- [x] 11.10 Deploying your application to Fly.io
+- [x] 11.11 Automatic deployments
+- [x] 11.12 Health check
 - [ ] 11.13 Pull request
 - [ ] 11.14 Run deployment step only for the main branch
 - [ ] 11.15 Adding versioning
