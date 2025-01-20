@@ -8,13 +8,13 @@ Fork the repository to complete course exercises
 
 - [ ] 11.1 Warming up
 - [x] 11.2 The example project
-- [ ] 11.3 Hello world!
-- [ ] 11.4 Date and directory contents
-- [ ] 11.5 Linting workflow
-- [ ] 11.6 Fix the code
-- [ ] 11.7 Building and testing
-- [ ] 11.8 Back to green
-- [ ] 11.9 Simple end-to-end tests
+- [x] 11.3 Hello world!
+- [x] 11.4 Date and directory contents
+- [x] 11.5 Linting workflow
+- [x] 11.6 Fix the code
+- [x] 11.7 Building and testing
+- [x] 11.8 Back to green
+- [x] 11.9 Simple end-to-end tests
 - [ ] 11.10 Deploying your application to Render
 - [ ] 11.11 Automatic deployments
 - [ ] 11.13 Pull request
