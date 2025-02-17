@@ -4,6 +4,11 @@ This repository is used for the CI/CD module of the Full stack open course
 
 Fork the repository to complete course exercises
 
+# Exercises 11.20 and 11.21
+
+Done in a different repository:
+https://github.com/LeeviHalme/fullstack-ci
+
 ## Exercises
 
 - [ ] 11.1 Warming up
@@ -18,15 +23,15 @@ Fork the repository to complete course exercises
 - [x] 11.10 Deploying your application to Fly.io
 - [x] 11.11 Automatic deployments
 - [x] 11.12 Health check
-- [ ] 11.13 Pull request
-- [ ] 11.14 Run deployment step only for the main branch
-- [ ] 11.15 Adding versioning
-- [ ] 11.16 Skipping a commit for tagging and deployment
-- [ ] 11.17 Adding protection to your main branch
-- [ ] 11.18 Build success/failure notification action
-- [ ] 11.19 Periodic health check
-- [ ] 11.20 Your own pipeline
-- [ ] 11.21 Protect your main branch and ask for pull request
+- [x] 11.13 Pull request
+- [x] 11.14 Run deployment step only for the main branch
+- [x] 11.15 Adding versioning
+- [x] 11.16 Skipping a commit for tagging and deployment
+- [x] 11.17 Adding protection to your main branch
+- [x] 11.18 Build success/failure notification action
+- [x] 11.19 Periodic health check
+- [x] 11.20 Your own pipeline
+- [x] 11.21 Protect your main branch and ask for pull request
 
 ## Commands
 
