@@ -11,7 +11,7 @@ https://github.com/LeeviHalme/fullstack-ci
 
 ## Exercises
 
-- [ ] 11.1 Warming up
+- [x] [11.1 Warming up](./exercise1.md)
 - [x] 11.2 The example project
 - [x] 11.3 Hello world!
 - [x] 11.4 Date and directory contents
